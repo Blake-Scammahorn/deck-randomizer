@@ -1,0 +1,28 @@
+C:\Users\Blake\AppData\Local\Temporary Projects\OnYourOwn12\bin\Debug\Cards.mdf
+C:\Users\Blake\AppData\Local\Temporary Projects\OnYourOwn12\bin\Debug\Cards_log.ldf
+C:\Users\Blake\AppData\Local\Temporary Projects\OnYourOwn12\bin\Debug\OnYourOwn12.exe.config
+C:\Users\Blake\AppData\Local\Temporary Projects\OnYourOwn12\bin\Debug\OnYourOwn12.exe
+C:\Users\Blake\AppData\Local\Temporary Projects\OnYourOwn12\bin\Debug\OnYourOwn12.pdb
+C:\Users\Blake\AppData\Local\Temporary Projects\OnYourOwn12\bin\Debug\OnYourOwn12.xml
+C:\Users\Blake\AppData\Local\Temporary Projects\OnYourOwn12\obj\Debug\OnYourOwn12.vbprojAssemblyReference.cache
+C:\Users\Blake\AppData\Local\Temporary Projects\OnYourOwn12\obj\Debug\OnYourOwn12.Form1.resources
+C:\Users\Blake\AppData\Local\Temporary Projects\OnYourOwn12\obj\Debug\OnYourOwn12.Resources.resources
+C:\Users\Blake\AppData\Local\Temporary Projects\OnYourOwn12\obj\Debug\OnYourOwn12.vbproj.GenerateResource.cache
+C:\Users\Blake\AppData\Local\Temporary Projects\OnYourOwn12\obj\Debug\OnYourOwn12.vbproj.CoreCompileInputs.cache
+C:\Users\Blake\AppData\Local\Temporary Projects\OnYourOwn12\obj\Debug\OnYourOwn12.exe
+C:\Users\Blake\AppData\Local\Temporary Projects\OnYourOwn12\obj\Debug\OnYourOwn12.xml
+C:\Users\Blake\AppData\Local\Temporary Projects\OnYourOwn12\obj\Debug\OnYourOwn12.pdb
+F:\EasyAccess\2020-21 classwork\Visual Basic Exercises\VB Chapter 12\OnYourOwn12\OnYourOwn12\bin\Debug\Cards.mdf
+F:\EasyAccess\2020-21 classwork\Visual Basic Exercises\VB Chapter 12\OnYourOwn12\OnYourOwn12\bin\Debug\Cards_log.ldf
+F:\EasyAccess\2020-21 classwork\Visual Basic Exercises\VB Chapter 12\OnYourOwn12\OnYourOwn12\bin\Debug\OnYourOwn12.exe.config
+F:\EasyAccess\2020-21 classwork\Visual Basic Exercises\VB Chapter 12\OnYourOwn12\OnYourOwn12\bin\Debug\OnYourOwn12.exe
+F:\EasyAccess\2020-21 classwork\Visual Basic Exercises\VB Chapter 12\OnYourOwn12\OnYourOwn12\bin\Debug\OnYourOwn12.pdb
+F:\EasyAccess\2020-21 classwork\Visual Basic Exercises\VB Chapter 12\OnYourOwn12\OnYourOwn12\bin\Debug\OnYourOwn12.xml
+F:\EasyAccess\2020-21 classwork\Visual Basic Exercises\VB Chapter 12\OnYourOwn12\OnYourOwn12\obj\Debug\OnYourOwn12.vbprojAssemblyReference.cache
+F:\EasyAccess\2020-21 classwork\Visual Basic Exercises\VB Chapter 12\OnYourOwn12\OnYourOwn12\obj\Debug\OnYourOwn12.Resources.resources
+F:\EasyAccess\2020-21 classwork\Visual Basic Exercises\VB Chapter 12\OnYourOwn12\OnYourOwn12\obj\Debug\OnYourOwn12.vbproj.GenerateResource.cache
+F:\EasyAccess\2020-21 classwork\Visual Basic Exercises\VB Chapter 12\OnYourOwn12\OnYourOwn12\obj\Debug\OnYourOwn12.vbproj.CoreCompileInputs.cache
+F:\EasyAccess\2020-21 classwork\Visual Basic Exercises\VB Chapter 12\OnYourOwn12\OnYourOwn12\obj\Debug\OnYourOwn12.exe
+F:\EasyAccess\2020-21 classwork\Visual Basic Exercises\VB Chapter 12\OnYourOwn12\OnYourOwn12\obj\Debug\OnYourOwn12.xml
+F:\EasyAccess\2020-21 classwork\Visual Basic Exercises\VB Chapter 12\OnYourOwn12\OnYourOwn12\obj\Debug\OnYourOwn12.pdb
+F:\EasyAccess\2020-21 classwork\Visual Basic Exercises\VB Chapter 12\OnYourOwn12\OnYourOwn12\obj\Debug\OnYourOwn12.frmMain.resources
